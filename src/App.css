@@ -1,0 +1,18 @@
+body {
+  background: url("https://www.maxpixel.net/static/photo/1x/Sky-Background-Image-Sunrise-Sunset-Weather-Clouds-3486819.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: "Righteous", cursive;
+}
+
+.header {
+  font-size: xx-large;
+  color: blanchedalmond;
+}
+.titr {
+  padding-left: 20px;
+  color: #ffc107;
+
+  border-color: #ffc107;
+  padding-top: 10px;
+}
